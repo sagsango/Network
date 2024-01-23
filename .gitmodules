@@ -1,0 +1,15 @@
+[submodule "C-Web-Server"]
+	path = C-Web-Server
+	url = https://github.com/sagsango/C-Web-Server.git
+[submodule "documents/SUN_MICROSYSTEM_NETWORKING"]
+	path = documents/SUN_MICROSYSTEM_NETWORKING
+	url = https://github.com/sagsango/SUN_MICROSYSTEM_NETWORKING.git
+[submodule "documents/NETWORKING_RFC"]
+	path = documents/NETWORKING_RFC
+	url = https://github.com/sagsango/NETWORKING_RFC.git
+[submodule "bibles/Unix-Network-Programming-The-Sockets-Networking-API"]
+	path = bibles/Unix-Network-Programming-The-Sockets-Networking-API
+	url = https://github.com/sagsango/Unix-Network-Programming-The-Sockets-Networking-API.git
+[submodule "bibles/Unix-Network-Programming-InterProcess-Communications"]
+	path = bibles/Unix-Network-Programming-InterProcess-Communications
+	url = https://github.com/sagsango/Unix-Network-Programming-InterProcess-Communications.git
